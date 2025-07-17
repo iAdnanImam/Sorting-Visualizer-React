@@ -1,12 +1,57 @@
-# React + Vite
+# 🧮 Sorting Visualizer in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an interactive **Sorting Algorithm Visualizer** built using **React**. It allows users to visualize and compare popular sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort in action. 
 
-Currently, two official plugins are available:
+✅ Animations  
+✅ Speed & Size control  
+✅ Completion popup with time complexities  
+✅ Clean modular codebase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📊 **Visual Representation** of sorting with colored bars
+- 🐢⚡ **Speed Control**: Adjust speed dynamically even during sorting
+- 📏 **Size Control**: Change the number of elements using a slider
+- 🔁 **Multiple Algorithms**: Bubble, Selection, Insertion, Merge, Quick
+- 🎉 **Popup on Completion**: Displays time complexities
+- 💡 Clean, responsive, and beginner-friendly UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Functional Components & Hooks)
+- **CSS Modules** for styling
+- **JavaScript** sorting logic
+- **Vite** or **Create React App** (compatible with both)
+
+---
+
+## 🚀 Live Demo
+
+🌐 Visit WanderLust : https://sorting-visualizer-react-henna.vercel.app  
+🧑‍💻 GitHub Repository: https://github.com/iAdnanImam/Sorting-Visualizer-React.git
+
+---
+
+## ⚙️ Installation
+
+--In the project directory, run:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+# Build for production
+npm run build
+```
+## 🧑‍💻 Author
+
+Adnan Imam
+
+GitHub: @iAdnanImam
