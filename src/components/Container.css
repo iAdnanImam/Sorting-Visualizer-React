@@ -1,0 +1,29 @@
+.bar-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 520px;
+  padding: 5px;
+  margin-top: 7rem;
+  overflow: hidden;
+}
+
+.bar {
+  margin: 0 2px;
+  background: linear-gradient(to top, #00c9ff, #92fe9d);
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border: 1px solid #333;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
+
+.bar-label {
+  position: absolute;
+  top: 5px;
+}
