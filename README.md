@@ -31,7 +31,7 @@ This is an interactive **Sorting Algorithm Visualizer** built using **React**. I
 
 ## 🚀 Live Demo
 
-🌐 Visit WanderLust : https://sorting-visualizer-react-henna.vercel.app  
+🌐 Visit Website : https://sorting-visualizer-react-henna.vercel.app  
 🧑‍💻 GitHub Repository: https://github.com/iAdnanImam/Sorting-Visualizer-React.git
 
 ---
